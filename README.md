@@ -1,2 +1,0 @@
-# kohonen-and-cpann-toolbox-for-matlab
-The Kohonen and CPANN toolbox is a collection of MATLAB modules for developing Kohonen Maps and Counterpropagation Artificial Neural networs (CPANNs), Supervised Kohonen networks and XY-fused networks. These are well known neural networks aimed to cluster analysis and the study of data structure (Kohonen Maps) and to the data classification (CPANNs, Supervised Kohonen networks and XY-fused networks). A graphical user interface (GUI), which allows an easy model calculation and analysis of results, is also provided with the toolbox.
