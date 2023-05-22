@@ -5,7 +5,7 @@ Kohonen and CPANN toolbox is a collection of MATLAB modules for developing Kohon
 
 MATLAB should be installed, while no other toolboxes are needed. 
 
-This is the version 4.5 of Kohonen and CP-ANN toolbox
+This is the version 4.6 of Kohonen and CP-ANN toolbox
 
 Kohonen and CPANN toolbox has been released by Milano Chemometrics and QSAR research Group.
 Visit our website at www.michem.unimib.it
